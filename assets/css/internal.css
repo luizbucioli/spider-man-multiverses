@@ -3,6 +3,7 @@
 @import url('components/_navigator.css');
 @import url('components/_pills.css');
 @import url('components/_link_button.css');
+@import url('components/_gallery.css');
 
 .s-wrapper {
     display: flex;
@@ -63,4 +64,19 @@
 
 .s-wrapper .s-main-content__top .s-description .pills{
     margin-bottom: 20px;
+}
+
+.s-wrapper .s-main-content .s-links{
+    padding: 20px;
+    padding-left: 0;
+}
+
+.s-wrapper .s-main-content .s-links ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.s-spiderman-01-01{
+    background-image: url('../../assets/images/spiderman-tobey/movie-01/background.png');
+    background-size: cover;
 }

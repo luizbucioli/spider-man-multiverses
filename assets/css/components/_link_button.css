@@ -20,13 +20,13 @@ a.link-button .icon{
 }
 
 a.link-button .icon .play-icon{
-    border: solid 7px white;
+    border: solid 9px white;
     width: 0;
     height: 0;
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
-    margin: -7px;
+    margin-right: -9px;
 }
 
 a.link-button .label{
