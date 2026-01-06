@@ -11,6 +11,10 @@
     flex-flow: row nowrap;
 }
 
+.s-wrapper video{
+    position: fixed;
+    width: 100%;
+}
 .s-wrapper .s-left-column{
     width: 100px;
     height: 100%;
