@@ -1,11 +1,9 @@
 # 🕷️ Spider-Man Multiverses
 
-<p align="center">
-  <img scr="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge" alt="Status do Projeto">
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="Licença MIT">
-  <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Versão">
-  <img src="https://img.shields.io/badge/deploy-GitHub%20Pages-black" alt="GitHub Pages">
-</p>
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)](https://luizbucioli.github.io/spider-man-multiverses/)
+[![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
+[![Versão](https://img.shields.io/badge/version-1.0.0-yellow)]()
+[![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)](https://luizbucioli.github.io/spider-man-multiverses/)
 
 ---
 
