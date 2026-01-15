@@ -1,10 +1,6 @@
 # 🕷️ Spider-Man Multiverses
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="Spider-Man Multiverses Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status do Projeto">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="Licença MIT">
   <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Versão">
@@ -17,8 +13,6 @@
 
 **Spider-Man Multiverses** é um projeto front-end estático inspirado no universo do Homem-Aranha, explorando o conceito de multiverso por meio de um site visual e interativo.  
 O projeto foi desenvolvido utilizando apenas **HTML**, **CSS** e **JavaScript**, com foco em organização de código, layout responsivo e publicação via GitHub Pages.
-
-Ideal para **portfólio**, **aprendizado prático** e consolidação de fundamentos do desenvolvimento web.
 
 ---
 
